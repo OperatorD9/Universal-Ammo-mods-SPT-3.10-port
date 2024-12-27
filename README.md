@@ -6,5 +6,4 @@ Hey lads im porting UV mods&ammo trying to talk with OP about the mod port but n
 Original Mod links
 all mod credit gose to Tyrian https://hub.sp-tarkov.com/user/28700-tyrian/
 https://hub.sp-tarkov.com/files/file/1101-universal-ammo/
-https://hub.sp-tarkov.com/files/file/1148-sensible-universal-weapon-mods/
-[Yyr-SensibleUniversalWeaponMods&Ammo.zip](https://github.com/user-attachments/files/18263594/Yyr-SensibleUniversalWeaponMods.Ammo.zip)
+https://hub.sp-tarkov.com/files/file/1148-sensible-universal-weapon-mods
